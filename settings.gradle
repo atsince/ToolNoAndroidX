@@ -1,0 +1,2 @@
+include ':app', ':FlycoTablayout_Lib'
+rootProject.name = "ToolNoAndroidX"
