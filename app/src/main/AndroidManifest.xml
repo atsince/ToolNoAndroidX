@@ -24,6 +24,7 @@
 
 
         <activity android:name="com.paotu.toolnoandroidx.indicator.IndicatorActivity" />
+        <activity android:name=".uservisible.ui.SimpleIndicatorActivity" />
 
     </application>
 
